@@ -2,15 +2,16 @@ package com.kraaken.project.lesson03.patternmatcher.task16;
 
 import java.util.Scanner;
 
-public class Main {
     public class Main {
         public static void main(String[] args) {
             Scanner in = new Scanner(System.in);
 
-            String text = "Утро в середине ноября могло быть самым обыкновенным, если бы за ночь не выпало столько снега. Всё вокруг в один миг преобразилось, как в волшебной сказке. Белоснежные сугробы покрыли мостовые, аллеи в парках, узкие дорожки во дворах, машины, как будто кто-то накинул большую накрахмаленную простыню на город. Невесомые снежинки, вздрагивая от малейшего порыва ветра, искрятся и сверкают миллионами огней в лучах мягкого зимнего солнца, словно драгоценные кристаллы. \n" +
-                    "Первый снег — это всегда радость, настоящее преображение природы. Зима вступила в свои права, и это её щедрый подарок. Хлопья снега сыпятся из тяжелых нависших над городом туч и пушистым ковром ложатся на улицы. Воздух свеж и чист. Голые ветки деревьев ранним утром покрывает колючий иней, придавая им причудливую форму. Тонкие заледеневшие иголочки красиво сверкают и переливаются разноцветными огнями. Не деревья в парке, а заколдованный лес! Морозное дыхание зимы рисует на стёклах затейливый орнамент, и окна сразу приобретают сказочный вид.\n" +
-                    "Тихо. Всё вокруг замирает. Деревья, тянущие изогнутые ветви к небу, напоминают заснеженных молчаливых истуканов. Но стоит приблизиться, и волшебство исчезает. Такая хрупкая красота! Ажурные снежинки осыпятся от лёгкого прикосновения, оголив тёмные ветки. Но за ночь чародейка-зима всё исправит, чтобы утром все снова смогли насладиться первозданной красотой.\n" +
-                    "\n";
+            String text = "Here you can find activities to practise your reading skills. Reading will help you to improve your understanding of the language and build your vocabulary.\n" +
+                    "\n" +
+                    "The self-study lessons in this section are written and organised by English level based on the Common European Framework of Reference for languages (CEFR)." +
+                    " There are different types of texts and interactive exercises that practise the reading skills you need to do well in your studies," +
+                    " to get ahead at work and to communicate in English in your free time.";
+
 
             System.out.println(text);
 
@@ -196,4 +197,4 @@ public class Main {
         }
     }
 
-}
+
